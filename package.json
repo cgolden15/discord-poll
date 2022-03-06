@@ -1,6 +1,6 @@
 {
   "name": "discord.js-qotd",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A poll command for discord.js bots, but even better",
   "main": "lib/index.js",
   "types": "lib",
