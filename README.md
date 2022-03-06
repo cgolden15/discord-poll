@@ -1,9 +1,9 @@
-# discord.js-poll
+# discord.js-qotd
 
-![npm](https://img.shields.io/npm/v/discord.js-poll)
-![NPM](https://img.shields.io/npm/l/discord.js-poll)
+![npm](https://img.shields.io/npm/v/discord.js-qotd)
+![NPM](https://img.shields.io/npm/l/discord.js-qotd)
 
-![npm](https://img.shields.io/npm/dt/discord.js-poll)
+![npm](https://img.shields.io/npm/dt/discord.js-qotd)
 
 Note: this module uses recent discord.js features and requires discord.js version 12 and Node.js 14.
 
