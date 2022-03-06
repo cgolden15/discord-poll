@@ -4,6 +4,7 @@
   "description": "A Question of the Day command for discord bots!",
   "main": "lib/index.js",
   "types": "lib",
+  "test command": "exit 0",
   "scripts": {
     "build": "tsc -p ."
   },
@@ -31,8 +32,5 @@
   },
   "directories": {
     "lib": "lib"
-  },
-  "publishConfig": {
-    "@golden15:registry": "https://npm.pkg.github.com/"
   }
 }
