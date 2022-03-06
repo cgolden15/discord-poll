@@ -1,5 +1,5 @@
 {
-  "name": "discord.js-qotd",
+  "name": "@cgolden15/discord.js-qotd",
   "version": "1.2.6",
   "description": "A Question of the Day command for discord bots!",
   "main": "lib/index.js",
