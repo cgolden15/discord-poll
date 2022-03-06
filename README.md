@@ -2,19 +2,16 @@
 
 ![npm](https://img.shields.io/npm/v/discord.js-qotd)
 ![NPM](https://img.shields.io/npm/l/discord.js-qotd)
-
 ![npm](https://img.shields.io/npm/dt/discord.js-qotd)
 
-Note: this module uses recent discord.js features and requires discord.js version 12 and Node.js 14.
-
-discord.js-poll is a Node.js module that allows you to create polls with your discord bot. You can customize the separator (between the title and the options) and the color of the embed.
+discord.js-qotd is a Node.js module that allows you to create polls or questions of the day with your discord bot. You can customize the separator, poll emoji and the embed color!
 
 ## Installation 
 
 <br>
 
 ```
-npm i discord.js-poll
+npm i discord.js-qotd
 ```
 
 <br>
@@ -41,7 +38,7 @@ poll(message: Discord.Message, args: string[], separator: string, embedColor: Di
 
 ```JavaScript
 const Discord = require('discord.js');
-const { poll } = require('discord.js-poll');
+const { poll } = require('discord.js-qotd');
 
 module.exports = {
 	name: 'poll',
