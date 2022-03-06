@@ -2,7 +2,6 @@
 
 ![npm](https://img.shields.io/npm/v/discord.js-qotd)
 ![NPM](https://img.shields.io/npm/l/discord.js-qotd)
-![npm](https://img.shields.io/npm/dt/discord.js-qotd)
 
 discord.js-qotd is a Node.js module that allows you to create polls or questions of the day with your discord bot. You can customize the separator and the embed color! 
 
