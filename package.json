@@ -1,7 +1,7 @@
 {
   "name": "discord.js-qotd",
   "version": "1.0.6",
-  "description": "A poll command for discord.js bots, but even better",
+  "description": "A Question of the Day command for discord bots!",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgolden15/discord-poll.git"
+    "url": "https://github.com/cgolden15/discord-poll.git"
   },
   "keywords": [
     "discord.js",
