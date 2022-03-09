@@ -8,7 +8,7 @@ discord.js-qotd is a Node.js module that allows you to create polls or questions
 ### What's next?:
 * v1.6.0 Variable message content to go along with the qotd embed.
 * v2.0.0 Discord.js v13 support
-* 
+
 ## Installation 
 
 <br>
