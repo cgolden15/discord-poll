@@ -1,7 +1,7 @@
 {
   "name": "discord.js-qotd",
   "version": "1.5.0",
-  "description": "A poll & question of the day command for discord bots!",
+  "description": "A Question of the Day command for discord bots!",
   "main": "lib/index.js",
   "types": "lib",
   "test command": "exit 0",
@@ -10,22 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgolden15/discord.js-qotd.git"
+    "url": "git+https://github.com/cgolden15/discord-poll.git"
   },
   "keywords": [
     "discord.js",
     "bot",
     "poll",
-    "command",
-    "qotd",
-    "discord bot"
+    "command"
   ],
   "author": "golden15",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cgolden15/discord.js-qotd/issues"
+    "url": "https://github.com/cgolden15/discord-poll/issues"
   },
-  "homepage": "https://github.com/cgolden15/discord.js-qotd#readme",
+  "homepage": "https://github.com/cgolden15/discord-poll#readme",
   "devDependencies": {
     "typescript": "^4.2.4"
   },
