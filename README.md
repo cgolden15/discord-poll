@@ -17,7 +17,7 @@ npm i discord.js-qotd
 
 <br>
 
-## Parameters type
+## Parameter types
 
 <br>
 
