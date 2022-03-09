@@ -1,6 +1,6 @@
 import Discord from 'discord.js'
 
-export async function poll(message: Discord.Message, args: string[], separator: string, embedColor: Discord.ColorResolvable) {
+export async function poll(message: Discord.Message, args: string[], separator: string, embedColor: Discord.ColorResolvable, emoji: string) {
 
 	const findSep = args.find(char => char.includes(separator));
 
@@ -13,7 +13,7 @@ export async function poll(message: Discord.Message, args: string[], separator: 
 
 		message.delete();
 
-		const embed = new Discord.MessageEmbed().setTitle('📊 ' + question).setColor(embedColor);
+		const embed = new Discord.MessageEmbed().setTitle(`${emoji}` + question).setColor(embedColor);
 
 		await message.channel.send({ embed }).then(msg => {
 			msg.react('👍');
@@ -32,7 +32,7 @@ export async function poll(message: Discord.Message, args: string[], separator: 
 			if (args[i] === separator) {
 				args.splice(i, 1);
 				const question = args.splice(0, i);
-				embed.setTitle('📊 ' + question.join(' '))
+				embed.setTitle(`${emoji}` + question.join(' '))
 				break;
 			}
 		}
