@@ -54,20 +54,20 @@ module.exports = {
 ### On discord
 
 ```
-!poll Is this a poll ?
+!poll Is this a poll?
 ```
 
-This will return an embed message with '**Is this a poll ?**' as title and with 👍 and 👎 reactions.
+This will return an embed message with '**Is this a poll?**' as title and with 👍 and 👎 reactions.
 
 ![Simple Poll Image](https://cdn.discordapp.com/attachments/417731712135725066/834428865342472212/unknown.png)
 
 <br>
 
 ```
-!poll What is your favorite food ? + Pasta + Burgers + Pizza
+!poll What is your favorite food? + Pasta + Burgers + Pizza
 ```
 
-This will return an embed message with '**What is your favorite food ?**' as title and '*Pasta*', '*Burger*' and '*Pizza*' as fields, with corresponding reactions (🇦 => 🇨).
+This will return an embed message with '**What is your favorite food?**' as title and '*Pasta*', '*Burger*' and '*Pizza*' as fields, with corresponding reactions (🇦 => 🇨).
 
 (If **'+'** is chosed as separator)
 
