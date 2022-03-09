@@ -1,6 +1,6 @@
 {
   "name": "discord.js-qotd",
-  "version": "1.0.0-rc.3",
+  "version": "1.5.0",
   "description": "A Question of the Day command for discord bots!",
   "main": "lib/index.js",
   "types": "lib",
