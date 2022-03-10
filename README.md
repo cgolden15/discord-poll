@@ -14,6 +14,7 @@ This will be updated shortly by using slash commands. If you wish to contribute 
 <br>
 
 ## What's next:
+* Slash command support instead of traditional message command.
 * Buttons instead of reactions 
 * Variable message content to go along with the qotd embed.
  
