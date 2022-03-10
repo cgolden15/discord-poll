@@ -6,7 +6,14 @@
 
 discord.js-qotd is a Node.js module that allows you to create polls or questions of the day with your discord bot. You can customize the arg separator, emoji and the embed color!
 
-### What's next:
+<br>
+
+<strong>Note: Currently the ``FLAGS.GUILD_MESSAGES`` intent is required.</strong> 
+
+This will be updated shortly by using slash commands. If you wish to contribute to this update, open a pull request.
+<br>
+
+## What's next:
 * Buttons instead of reactions 
 * Variable message content to go along with the qotd embed.
  
