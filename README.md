@@ -6,10 +6,10 @@
 
 discord.js-qotd is a Node.js module that allows you to create polls or questions of the day with your discord bot. You can customize the arg separator, emoji and the embed color!
 
-### What's next?:
-* v1.6.0 Variable message content to go along with the qotd embed.
-* v2.0.0 Discord.js v13 support
-
+### What's next:
+* Buttons instead of reactions 
+* Variable message content to go along with the qotd embed.
+ 
 ## Installation 
 
 <br>
@@ -62,7 +62,8 @@ module.exports = {
 
 This will return an embed message with '**Is this a poll?**' as title and with 👍 and 👎 reactions.
 
-![Simple Poll Image]()
+![image](https://user-images.githubusercontent.com/61284764/157581079-37abec21-b6ac-457f-be45-414687e87e1a.png)
+
 
 <br>
 
@@ -70,13 +71,14 @@ This will return an embed message with '**Is this a poll?**' as title and with �
 !poll message + args1 + args2 + args3
 ```
 
-This will return an embed message with '**What is your favorite food?**' as title and '*Pasta*', '*Burger*' and '*Pizza*' as fields, with corresponding reactions (🇦 => 🇨).
+This will return an embed message with '**message**' as title and '*args1*', '*args2*' and '*args3*' as fields, with corresponding reactions (🇦 => 🇨).
 
-(If **'+'** is chosed as separator)
+(If **'+'** is chosed as separator and **'🤷‍♂️'** as the emoji)
 
 <br>
 
-![Poll Image]()
+![image](https://user-images.githubusercontent.com/61284764/157580910-47506f2e-eef8-407d-8136-3979ba3bcbcb.png)
+
 
 ### ⚠️ You cannot add more than 26 options to the poll. 
 
