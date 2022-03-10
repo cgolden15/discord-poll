@@ -1,4 +1,4 @@
-# discord.js-qotd													
+# [discord.js-qotd](https://www.npmjs.com/package/discord.js-qotd)													
 
 [![npm](https://img.shields.io/npm/v/discord.js-qotd)](https://www.npmjs.com/package/discord.js-qotd)
 [![npm](https://img.shields.io/npm/dt/discord.js-qotd)](https://npm-stat.com/charts.html?package=discord.js-qotd)
