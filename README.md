@@ -91,4 +91,7 @@ This will return an embed message with '**message**' as title and '*args1*', '*a
 ### ⚠️ You cannot add more than 26 options to the poll. 
 
 <br>
-<i>Disclaimer: This module was originally created by nicolasmf under the name <a link href="https://www.npmjs.com/package/discord.js-poll"> discord.js-poll</a>. The original code for this plugin was taken from there in accordance with its MIT license. I took on this project due to lack of updates, functionality and v13 support from nicholasmf. 
+<i>Disclaimer: This module was originally created by nicolasmf under the name <a link href="https://www.npmjs.com/package/discord.js-poll"> discord.js-poll</a>. The original code for this plugin was taken from there in accordance with its MIT license. I took on this project due to lack of updates, functionality and v13 support from nicholasmf.
+	
+# 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcgolden15%2Fdiscord.js-qotd&count_bg=%2379C83D&title_bg=%23555555&icon=node-dot-js.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
